@@ -1,0 +1,28 @@
+﻿body {
+}
+
+h1 {
+    text-align:center;
+    color:brown;
+}
+.myform {
+    background-color: lemonchiffon;
+    margin-top: 3%;
+    padding: 1%;
+    color: blue;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#inlineFormCustomSelect {
+    width: 33%;
+    margin-bottom:1%;
+}
+
+.btn {
+    margin-right: auto;
+    margin-left: 25%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
